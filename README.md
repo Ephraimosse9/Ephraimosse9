@@ -8,6 +8,7 @@
 I am an Electrical Engineer, passionate about the intersection between Machine learning and embedded systems. Currently, I am  building my skills in **deep learning** and **machine learning** while leveraging my electrical engineering background.  
 
 This GitHub documents my learning journey with projects and experiments.  
+
 ![Learning GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U4NGs4eTdzeDc3bzZneTM1ejdzajJob3BmZmFwdWF5OWlneWUyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif)
 
 ---
@@ -16,7 +17,8 @@ This GitHub documents my learning journey with projects and experiments.
 Deep learning with **PyTorch**, building models from first principles, and exploring machine learning fundamentals.  
 
 ### 🎯 Goal  
-Use **machine learning** in **embedded systems** for **renewable energy applications** like solar power.  
+Use **machine learning** in **embedded systems** for **renewable energy applications** like solar power. 
+
 ![Machine Learning + Embedded + Solar GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
 
 
@@ -26,6 +28,7 @@ Use **machine learning** in **embedded systems** for **renewable energy applicat
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+
 ![Gears GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
@@ -33,7 +36,9 @@ Use **machine learning** in **embedded systems** for **renewable energy applicat
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EphraimOsse-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ephraim-osse-99142122a)  
 [![Email](https://img.shields.io/badge/Email-ephraimosse@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ephraimosse@gmail.com)  
-![Handshake GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+
+![Handshake GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNsZXhtemJtcXI5cW56cTZmYTVjaHA0MDQ3Y2R4OXMxdW8yYXBjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ru7IH0oTmfIK6tRTId/giphy.gif)  
+*Let's collaborate!*  
 
 ---
 
@@ -42,7 +47,7 @@ Use **machine learning** in **embedded systems** for **renewable energy applicat
 - **Binary Classification:** scikit-learn models on `make_moons` and `make_circles`.  
 - **Multi-class Classification:** scikit-learn on `make_blobs` dataset.  
 - **Tiny VGG Replication:** Recreated Tiny VGG in PyTorch on Fashion MNIST & MNIST datasets.  
-![Project GIF](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif)
+
 
 ---
 
