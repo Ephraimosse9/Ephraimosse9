@@ -34,9 +34,9 @@ Combine AI skills with engineering knowledge to solve practical problems.
 
 ### 🚀 Selected Projects
 - **Linear Regression:** Implementation from first principles vs PyTorch built-ins.  
-- **Binary Classification:** scikit-learn models on `make_moons` and `make_circles`.  
-- **Multi-class Classification:** scikit-learn on `make_blobs` dataset.  
-- **Tiny VGG Replication:** Recreated Tiny VGG in PyTorch on Fashion MNIST & MNIST datasets.
+- **Binary Classification:** Created a Binary classification model using pytorch to classify the `make_moons` and `make_circles` dataset.  
+- **Multi-class Classification:** Created a Multi-class classification model using pytorch to classify the `make_blobs` dataset.  
+- **Tiny VGG Replication:** Recreated Tiny VGG model in PyTorch to classify Fashion MNIST & MNIST datasets.
 
 ---
 
