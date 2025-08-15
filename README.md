@@ -41,8 +41,8 @@ Combine AI skills with engineering knowledge to solve practical problems.
 ---
 
 ### 📈 GitHub Stats
-![Ephraim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EphraimOsse&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EphraimOsse&layout=compact&theme=radical)
+![Ephraim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ephraimosse9&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraimosse9&layout=compact&theme=radical)
 
 ---
 
