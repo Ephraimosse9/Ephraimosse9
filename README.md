@@ -1,7 +1,7 @@
 ## Hi there 👋
 # My name is Ephraim Osse, welcome to my GitHub page
 
-![Typing GIF](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)
+![Typing GIF]([https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm55cngwazJvZmRlbmt6dHdtcnJxeHB0OGw4d3c3YmNrNnU5ZWE0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XD9o33QG9BoMis7iM4/giphy.gif))
 
 
 **I am an Electrical Engineer, passionate about the intersection between Machine learning and embedded systems. Currently I am  building my skills in **deep learning** and **machine learning** while leveraging my electrical engineering background.  
