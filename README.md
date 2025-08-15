@@ -37,8 +37,8 @@ Use **machine learning** in **embedded systems** for **renewable energy applicat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EphraimOsse-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ephraim-osse-99142122a)  
 [![Email](https://img.shields.io/badge/Email-ephraimosse@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ephraimosse@gmail.com)  
  
-![Gears GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNsZXhtemJtcXI5cW56cTZmYTVjaHA0MDQ3Y2R4OXMxdW8yYXBjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ru7IH0oTmfIK6tRTId/giphy.gif))
-*Let's collaborate!*  
+![Handshake GIF](https://media3.giphy.com/media/ru7IH0oTmfIK6tRTId/giphy.gif)  
+*Let's collaborate!*
 
 ---
 
