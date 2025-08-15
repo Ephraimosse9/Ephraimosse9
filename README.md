@@ -1,17 +1,18 @@
 ## Hi there 👋
-# Ephraim Osse
+# My name is Ephraim Osse, welcome to my GitHub page
+# 👋 Hi, I'm Ephraim Osse
 
 **Electrical Engineer | Deep Learning Enthusiast | Python & C Programmer**
 
-I am building my skills in deep learning and machine learning while applying my background in electrical engineering and programming. My GitHub documents my learning journey, showcasing projects and experiments as I grow my expertise.
+I’m building my skills in **deep learning** and **machine learning** while leveraging my electrical engineering background. My GitHub documents my learning journey with projects and experiments.
 
 ---
 
 ### 🔭 Current Focus
-Deep learning with **PyTorch**, understanding model building from first principles, and exploring machine learning fundamentals.
+Deep learning with **PyTorch**, building models from first principles, and exploring machine learning fundamentals.
 
 ### 🎯 Goal
-Strengthen my AI skills and combine them with my engineering background to solve practical problems.
+Combine AI skills with engineering knowledge to solve practical problems.
 
 ### 📚 Training
 **ALX Software Engineering Program** — hands-on projects in C, Python, and software development fundamentals.
@@ -19,18 +20,31 @@ Strengthen my AI skills and combine them with my engineering background to solve
 ---
 
 ### 🧰 Tools & Tech
-`Python` · `C` · `PyTorch`
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ---
 
-### 🔗 Find Me
-- [LinkedIn](https://linkedin.com/in/ephraim-osse-99142122a)  
-- Email: ephraimosse@gmail.com
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EphraimOsse-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ephraim-osse-99142122a)  
+[![Email](https://img.shields.io/badge/Email-ephraimosse@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ephraimosse@gmail.com)
 
 ---
 
 ### 🚀 Selected Projects
-- **Linear Regression:** Compared implementation from first principles vs PyTorch built-in functions.  
-- **Binary Classification:** Built models using scikit-learn on the `make_moons` and `make_circles` datasets.  
-- **Multi-class Classification:** Built models using scikit-learn on the `make_blobs` dataset.  
-- **Tiny VGG Replication:** Recreated the Tiny VGG architecture in PyTorch and trained it on Fashion MNIST and MNIST datasets.
+- **Linear Regression:** Implementation from first principles vs PyTorch built-ins.  
+- **Binary Classification:** scikit-learn models on `make_moons` and `make_circles`.  
+- **Multi-class Classification:** scikit-learn on `make_blobs` dataset.  
+- **Tiny VGG Replication:** Recreated Tiny VGG in PyTorch on Fashion MNIST & MNIST datasets.
+
+---
+
+### 📈 GitHub Stats
+![Ephraim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EphraimOsse&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EphraimOsse&layout=compact&theme=radical)
+
+---
+
+### 💬 Fun Fact
+I love **experimenting with AI**, exploring **electrical engineering projects**, and coding small utilities in **Python & C**.
