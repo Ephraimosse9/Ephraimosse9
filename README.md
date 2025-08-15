@@ -8,7 +8,7 @@
 **I am an Electrical Engineer, passionate about the intersection between Machine learning and embedded systems. Currently I am  building my skills in **deep learning** and **machine learning** while leveraging my electrical engineering background.  
 
 This GitHub documents my learning journey with projects and experiments.  
-![Coding GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![Learning GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U4NGs4eTdzeDc3bzZneTM1ejdzajJob3BmZmFwdWF5OWlneWUyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif)
 
 ---
 
