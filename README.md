@@ -1,10 +1,10 @@
 ## Hi there 👋
 # My name is Ephraim Osse, welcome to my GitHub page
-# 👋 Hi, I'm Ephraim Osse
+
 
 **Electrical Engineer | Deep Learning Enthusiast | Python & C Programmer**
 
-I’m building my skills in **deep learning** and **machine learning** while leveraging my electrical engineering background. My GitHub documents my learning journey with projects and experiments.
+I am building my skills in **deep learning** and **machine learning** while leveraging my electrical engineering background. My GitHub documents my learning journey with projects and experiments.
 
 ---
 
