@@ -5,7 +5,7 @@
 *Welcome 😏*
 
 
-**I am an Electrical Engineer, passionate about the intersection between Machine learning and embedded systems. Currently I am  building my skills in **deep learning** and **machine learning** while leveraging my electrical engineering background.  
+I am an Electrical Engineer, passionate about the intersection between Machine learning and embedded systems. Currently, I am  building my skills in **deep learning** and **machine learning** while leveraging my electrical engineering background.  
 
 This GitHub documents my learning journey with projects and experiments.  
 ![Learning GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U4NGs4eTdzeDc3bzZneTM1ejdzajJob3BmZmFwdWF5OWlneWUyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIqCQx02E1U9W/giphy.gif)
@@ -14,11 +14,11 @@ This GitHub documents my learning journey with projects and experiments.
 
 ### 🔭 Current Focus  
 Deep learning with **PyTorch**, building models from first principles, and exploring machine learning fundamentals.  
-![Brainstorming GIF](https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif)
 
 ### 🎯 Goal  
-Combine AI skills with engineering knowledge to solve practical problems.  
-![Rocket GIF](https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif)
+Use **machine learning** in **embedded systems** for **renewable energy applications** like solar power.  
+![Machine Learning + Embedded + Solar GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
+
 
 ---
 
