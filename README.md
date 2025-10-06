@@ -5,7 +5,7 @@
 *Welcome 😏*
 
 
-I am an Electrical Engineer, passionate about the intersection between Machine learning and embedded systems. Currently, I am  building my skills in **deep learning** and **machine learning** while leveraging my electrical engineering background.  
+I am an Electrical Engineer, passionate about research. Currently, I am  building my skills in **deep learning** and **machine learning** while leveraging my electrical engineering background.  
 
 This GitHub documents my learning journey with projects and experiments.  
 
